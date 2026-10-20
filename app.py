@@ -43,4 +43,4 @@ else:
     print("SONUC: Sirket basa bas noktasinda.")
 
 print("=" * 40)
-python-m streamlit run app.py
+
